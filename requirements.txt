@@ -1,0 +1,9 @@
+# Versions that reproduce the notebook's results (checked with Python 3.13).
+# Keep pandas on 2.x: pandas 3 changes text column types and the month conversion fails.
+pandas==2.2.3
+numpy==2.5.4
+scikit-learn==1.6.1
+matplotlib==3.11.2
+seaborn==0.13.2
+statsmodels==0.15.0
+jupyter
