@@ -2,7 +2,7 @@
 
 **A data-driven analysis of Metro Manila's MRT-3: which station pairs carry the most riders, which months are busiest, and how well machine learning can predict monthly trips and revenue.**
 
-This repository holds the regression part of a group study, *A Data-Driven Analysis of MRT-3 Monthly Ridership Dynamics (2022-2025): Examining Origin-Destination Patterns and Operational Efficiency*, written at the Technological Institute of the Philippines (TIP). It predicts monthly trips and revenue for every MRT-3 origin-destination (OD) pair, from January 2022 to August 2025, and compares Linear Regression with Random Forest Regression.
+This repository holds the regression part of a group study, which James built (the models and their data preprocessing), *A Data-Driven Analysis of MRT-3 Monthly Ridership Dynamics (2022-2025): Examining Origin-Destination Patterns and Operational Efficiency*, written at the Technological Institute of the Philippines (TIP). It predicts monthly trips and revenue for every MRT-3 origin-destination (OD) pair, from January 2022 to August 2025, and compares Linear Regression with Random Forest Regression.
 
 | Model | Target | Test R² | Test MAE |
 |---|---|---|---|
@@ -300,7 +300,7 @@ Technological Institute of the Philippines, BS Data Science and Analytics. Profe
 
 - Juliana Ysabel D.C. Detera
 - Josh Andrei A. Ituralde
-- James Andre L. Kalaw
+- **James Andre L. Kalaw**: built all the regression models (Linear Regression and Random Forest for trips and for revenue) and their data preprocessing, the work in this repository
 - Mia Ysabel R. Semilla
 
 ## References
